@@ -1,0 +1,5 @@
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\bin\Release\OpenINI.dll
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\bin\Release\OpenINI.pdb
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Release\OpenINI.csproj.CoreCompileInputs.cache
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Release\OpenINI.dll
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Release\OpenINI.pdb

@@ -1,0 +1,12 @@
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Debug\OpenINI.csproj.GenerateResource.cache
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Debug\OpenINI.csproj.CoreCompileInputs.cache
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\bin\Debug\OpenINI.dll
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\bin\Debug\OpenINI.pdb
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Debug\OpenINI.dll
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Debug\OpenINI.pdb
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Debug\OpenINI.ConfigDefault.resources
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\bin\Debug\SunnyUI.Common.dll
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\bin\Debug\SunnyUI.dll
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Debug\OpenINI.ConfigUI.resources
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Debug\OpenINI.csproj.CopyComplete
+D:\P-File\C#\.ini文件处理\v2.1\OpenINI\obj\Debug\OpenINI.csproj.AssemblyReference.cache
